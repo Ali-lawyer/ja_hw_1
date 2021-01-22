@@ -1,2 +1,2 @@
-# ja_hw_1
-ja_hw_1
+# js_hw_1
+js_hw_1
